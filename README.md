@@ -6,7 +6,6 @@ This project implements a variety of CPU scheduling algorithms in C++ to simulat
 - [Algorithms](#algorithms)
 - [Installation](#installation)
 - [Input Format](#input-format)
-- [Contributors](#contributors)
 
 ## Algorithms
 
