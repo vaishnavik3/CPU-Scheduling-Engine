@@ -73,7 +73,3 @@ The input file follows a structured format to specify simulation details:
   - For algorithms 1–7: `name,arrival_time,service_time` (e.g., `P1,0,5` for process P1 arriving at time 0 with 5 units of service time).
   - For Aging (algorithm 8): `name,arrival_time,priority` (e.g., `P1,0,3` for process P1 arriving at time 0 with priority 3).
   - Processes must be sorted by arrival time. If two processes have the same arrival time, the one with lower priority is assumed to arrive first.
-
-## Contributors
-
-Contributions are welcome! Feel free to submit pull requests, report issues, or suggest improvements to enhance the project. For major changes, please open an issue to discuss your ideas first.
